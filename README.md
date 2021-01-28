@@ -1,6 +1,17 @@
 # inventory-app
 Inventory Management System Java project repository
 
+## Team description
+  - Institute name: Rajarambapu Institute of Technology (RBIT)
+  - Institute city: Uran Islampur (Sangli), Maharashtra (India)
+
+**Team members:**
+  - Mr. Akash Mahajan (Lead)
+  - Mr. Hrishikesh Mhetre
+  - Mr. Sanket Kale
+  - Mr. Shubham Teke
+  - Mr. Aditya Dalavi
+
 ## Overview
 Inventory Management System is an application written in Java used to manage and buy/sell inventory in an godown. Traditional godown uses the account book which is paper-based. There are numerous causes of losing this paper based data. Inventory Management System resolves this problem by enabling the user to put data on computer and manage it through either Command-line Interface (CLI) or a separate web app can be created using Spring Boot.
 
