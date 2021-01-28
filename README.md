@@ -41,6 +41,12 @@ Inventory Management System is an application written in Java used to manage and
   - Java version: JDK 11.0.9.1 or OpenJDK-11-amd64
   - MySQL version: mysqlnd 7.4.14
   - Other details: Ubuntu 20.04 Focal Fossa platform used, XAMPP with Apache + MariaDB + PHP + Perl for Linux
+
+### Application Internal Description
+  - Before you can execute Inventory.java, do following:
+    - Import _inventory.sql_ in your MyPHPAdmin or MySQL database
+    - The default connection string used is _http://localhost:3306/inventory_
+    - Also make sure that, _com.mysql.cj.jdbc.Driver_ driver is installed and ready to use on your system
     
 ### Developer's contact
 **Created by Akash Mahajan <akashmahajan025@gmail.com>, Hrishikesh Mhetre <hrmhetre@gmail.com>**
